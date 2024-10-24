@@ -155,6 +155,14 @@ Reading data from CSV files.
 - Fine-tuning models for better performance
 - Evaluating summarization results
 
+### Lab-07: Digital Image Processing using OpenCV
+- OpenCV Overview
+- RGB to Grayscale
+- Guassian Blue
+- Canny Edge Detection
+- Object Detection through Template and Frame using CV2
+
+
 ## How to Use This Repository
 1. Clone this repository to your local machine:
    ```bash
